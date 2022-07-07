@@ -11,12 +11,12 @@ public class GitRacer {
 	}
 	
 	
-	static void teamMember1()
+	static void teamMember1() //Tyler war hier
 	{
 		System.out.println("ToDo");
 	}
 	
-	static void teamMember2()
+	static void teamMember2() // Simon ist cooler
 	{
 		System.out.println("ToDo");
 	}
